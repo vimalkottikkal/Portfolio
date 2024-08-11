@@ -11,5 +11,6 @@ grid : used to display elements in row and column, where user can fix column wid
         -git status : used to check status of git inside the folder
         -git init : used to create/initiate git repository in a folder
         -git add . : used to track all untracked files to git
+        -git commit -m "message" : used to store/save tracked files to git
 
 
